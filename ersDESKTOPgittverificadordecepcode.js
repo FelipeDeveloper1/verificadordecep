@@ -1,0 +1,19 @@
+[33mcommit 1d7778e83901bf7b61b4c6261b8c14b9dfbb60b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Felipe de Oliveira <78390656+Fleen66@users.noreply.github.com>
+Date:   Wed Aug 24 17:02:15 2022 -0300
+
+    Create README.md
+
+[33mcommit 4767420e3ebe0029e9a0904189735f8313086ce1[m
+Author: = <=>
+Date:   Wed Aug 24 16:56:17 2022 -0300
+
+    fetch e async await
+    
+    Um site para aperfeiçoar as minhas habilidades com API, utilizando fetch e async await
+
+[33mcommit b0a452af3fe0f31e75af9ae92d6517f5d6fd4528[m
+Author: = <=>
+Date:   Wed Aug 24 16:47:16 2022 -0300
+
+    adicionando o icon e finalizando o projeto
